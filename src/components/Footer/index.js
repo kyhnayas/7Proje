@@ -49,7 +49,7 @@ const Footer = () => {
     © 2021 Yapım ve Tasarım <a href="#home">@7proje</a>
     </LeftText>
     <RightText>
-    Bana şu yolla ulaşın ;)
+    Bana şu yolla ulaşın ;) 0533 327 81 84
       <a href="mailto:info@7projeofisi.com">
         <img src={Gmail} alt="Gmail" />
       </a>
