@@ -78,7 +78,7 @@ const Testimonials = () => {
     <Carousal>
       <Slider {...settings}>
         <Card
-          text="7Proje müşterilerime karşı her zaman anlayışlı olmuştur ve bana yaptırdığı işlerde gerekli tüm dökümanları düzenli bir biçimde sağlamıştır."
+          text="Birlikte çalıştığımız projelerde teknik bilgeliklerine hayran kaldığım çözüm ortakları."
           name="Ersin Kılıçoğlu (Graphic Designer)"
           image="avatar-1"
         />
