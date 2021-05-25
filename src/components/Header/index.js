@@ -255,7 +255,7 @@ gsap.registerPlugin(ScrollTrigger);
           <a href="#about" onClick={(e)=>handleClick("about", e)}>Hakkımızda</a>
           <a href="#services" onClick={(e)=>handleClick("services", e)}>Hizmetler</a>
           <a href="#contact" onClick={(e)=>handleClick("contact", e)}>
-            <Button>Iletişim</Button>
+            <Button>İletişim</Button>
           </a>
     </MobileMenu>
   </Headers>
