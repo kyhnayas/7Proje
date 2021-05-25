@@ -142,16 +142,16 @@ const Contact = () => {
         <img src={Instagram} alt="Instagram" />
       </a>
     </Icons>
-    <Form>
+    <Form action="https://demo.7projeofisi.com/mail/mailsend.php" method="post">
       <Row>
       <input type="text" name="name" placeholder="Adınız?" />
-      <input type="email" name="email" placeholder="Gecerli bir mail girin." />
+      <input type="email" name="emaila" placeholder="Gecerli bir mail girin." />
       </Row>
         <textarea name="message" placeholder="Mesajınız." cols="30" rows="2"></textarea>
       <div style={{ margin: "0 auto"}}>
-        <button>
-          Gönder
-        </button>
+        <input type="submit" name="submit" value="Gönder">
+    </input>     
+      
       </div>
     </Form>
   </ContactSection>;
