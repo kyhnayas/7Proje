@@ -55,6 +55,25 @@ ${"" /* //basic style  */}
          text-decoration: none;
          outline: none;
      }
+
+     a:link {
+        color: var(--red);
+      }
+      
+      /* visited link */
+      a:visited {
+        color: var(--kahve);
+      }
+      
+      /* mouse over link */
+      a:hover {
+        color: var(--red);
+      }
+      
+      /* selected link */
+      a:active {
+        color: var(--kahve);
+      }
      button{
          border:none;
          outline:none;
