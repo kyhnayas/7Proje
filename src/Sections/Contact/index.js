@@ -146,7 +146,7 @@ const Contact = () => {
       <Row>
       <input type="text" name="name" placeholder="Adınız?" />
       <input type="email" name="emaila" placeholder="Gecerli bir mail girin." />
-      <input type="hidden" name="sec" value="akjh3213DSAD?!dsad" />
+      <input type="hidden" name="sec" value="akjh3213DSADdsad" />
       </Row>
         <textarea name="ileti" placeholder="Mesajınız." cols="30" rows="2"></textarea>
       <div style={{ margin: "0 auto"}}>
